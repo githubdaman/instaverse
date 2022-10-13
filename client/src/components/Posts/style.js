@@ -1,0 +1,2 @@
+const PostsStyle = {};
+export { PostsStyle };
